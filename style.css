@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 37px;
+}
+
 .section1 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat
@@ -64,4 +68,44 @@ h1 {
 
 .pra .dream-big {
     padding-right: 10px;
+}
+
+.flixable {
+    display: flex;
+}
+
+.dev-pro {
+    color: orange;
+}
+
+.f-stack {
+    box-shadow: 10px 10px 10px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-left: 5px solid #d03434;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+
+.jr-stack {
+    box-shadow: 10px 10px 10px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-left: 5px solid #2e1ba8;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.experince {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+footer p {
+    margin-top: 30px;
+    text-align: center;
+
 }
