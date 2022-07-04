@@ -51,4 +51,17 @@ h1 {
     background-image: linear-gradient(orange, rgb(188, 43, 17));
     border-radius: 5px;
     color: white;
+    font-weight: 700;
+}
+
+.dream-big {
+    display: flex;
+    margin-top: 170px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.pra .dream-big {
+    padding-right: 10px;
 }
